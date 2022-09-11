@@ -379,11 +379,12 @@ margin-right: 30px;
 .brand-item:focus {
   outline: 1px solid var(--accent-color) ;
 }
+
 .brand-item:hover .brand-icon,
-.brand-item:focus .brand-icon
-{
+.brand-item:focus .brand-icon{
   fill: var(--accent-color);
 }
+
 /*FOOTER=====================*/
 .footer{
 display: flex;
