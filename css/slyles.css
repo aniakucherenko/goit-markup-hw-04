@@ -251,7 +251,9 @@ margin: 0;
   color: var(--primary-text-color);
 }
 .address:hover,
-.adress:focus {
+.address:focus,
+.contacts:hover,
+.contacts:focus {
   color: var(--accent-color);
 }
 
