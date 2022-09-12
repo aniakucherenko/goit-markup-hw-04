@@ -225,7 +225,6 @@ img {
 }
 .team-description {
 padding-top: 30px;
-padding-bottom: 30px;
 margin: 0;
 }
 .team-name {
@@ -379,7 +378,7 @@ margin-right: 30px;
 }
 .brand-item:hover,
 .brand-item:focus {
-  outline: 1px solid var(--accent-color) ;
+  outline: 1px solid var(--accent-color);
 }
 
 .brand-item:hover .brand-icon,
@@ -526,6 +525,8 @@ justify-content: center;
 .soc-list-item{
 width: 44px;
 height: 44px;
+margin-top: 16px;
+margin-bottom: 30px;
 }
 .soc-list-item:not(:last-child){
 margin-right: 10px;
